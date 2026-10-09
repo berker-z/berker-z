@@ -14,11 +14,11 @@ Computer use for Hyprland, with persistent per-app memory so agents can learn ho
 
 **[copland](https://github.com/berker-z/copland)**
 
-A personal dashboard and project tracker that runs on your own Cloudflare account. Boards you can share with friends and hand to AI agents, with your calendar, notes and inbox beside them. It replaced nord-dash.
+A self-hosted workspace and AI agent coordination system. Project boards, MCP, agent identities, and a local daemon that dispatches work to the runtimes you already use. Also a personal dashboard when you want one.
 
 **[kino](https://github.com/berker-z/kino)**
 
-A motion design library for HyperFrames that my music videos are built from. It reads the song, draws in time with it, and makes the picture look printed, exposed or shown on a tube.
+A composable motion-design toolkit for HyperFrames. Reusable procedural visuals, animation primitives, rendering passes, and aesthetic systems for code-driven video, including audio-reactive work.
 
 **[uwu-unstucker](https://github.com/berker-z/uwu-unstucker)**
 
